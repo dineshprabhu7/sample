@@ -1,0 +1,10 @@
+#form{
+    background-color: rgb(77, 77, 163);
+    border-radius: 20px;
+    border: 20px red;
+  
+    padding: 30px 20px 10px 100px;
+    width: 300px;
+    margin-left: 25%;
+    margin -top : 50%;
+}
